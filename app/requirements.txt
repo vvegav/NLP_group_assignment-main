@@ -1,0 +1,7 @@
+gradio==4.18.0
+gradio_client==0.10.0
+openai-whisper
+openai==1.10.0
+newspaper3k==0.2.8
+python-dotenv==1.0.1
+transformers==4.32.1
